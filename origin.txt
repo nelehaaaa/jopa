@@ -1,0 +1,196 @@
+Uri: https://easyshots.ru/
+File Name: c:\Downloaded Web Sites\easyshots.ru\index.htm
+Content Type: text/html
+
+Uri: https://easyshots.ru/css/stylesa.css
+File Name: c:\Downloaded Web Sites\easyshots.ru\css\stylesa.css
+Content Type: text/css
+
+Uri: https://easyshots.ru/faq.html
+File Name: c:\Downloaded Web Sites\easyshots.ru\faq.html
+Content Type: text/html
+
+Uri: https://easyshots.ru/images/basket.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\basket.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/main_block/2.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\main_block\2.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/main_block/3.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\main_block\3.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/about/1.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\about\1.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/about/2.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\about\2.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/about/3.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\about\3.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/Wraith.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\Wraith.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/guarantees/1.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\guarantees\1.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/guarantees/2.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\guarantees\2.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/guarantees/3.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\guarantees\3.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/guarantees/4.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\guarantees\4.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/js/jquery.js
+File Name: c:\Downloaded Web Sites\easyshots.ru\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://easyshots.ru/js/scripts.js
+File Name: c:\Downloaded Web Sites\easyshots.ru\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://easyshots.ru/images/logo.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\logo.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/main_blockapex.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\main_blockapex.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/about.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\about.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/list.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\list.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/functions.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/functions/1.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions\1.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/functions/2.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions\2.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/functions/3.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions\3.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/functions/4.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions\4.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/functions/5.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions\5.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/functions/6.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\functions\6.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/enough.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\enough.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/why.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\why.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/reviews.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\reviews.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/bottom.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\bottom.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/footer_logo.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\footer_logo.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/check.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\check.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/dollar.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\dollar.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/home.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\home.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/love.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\love.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/options.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\options.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/share.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\share.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/star.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\star.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/to_top.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\to_top.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/left.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\left.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/images/right.png
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\right.png
+Content Type: image/png
+
+Uri: https://easyshots.ru/fonts/Muller_Bold.otf
+File Name: c:\Downloaded Web Sites\easyshots.ru\fonts\Muller_Bold.bin
+Content Type: application/octet-stream
+
+Uri: https://easyshots.ru/fonts/Muller_Regular.otf
+File Name: c:\Downloaded Web Sites\easyshots.ru\fonts\Muller_Regular.bin
+Content Type: application/octet-stream
+
+Uri: https://easyshots.ru/fonts/Muller_Medium.otf
+File Name: c:\Downloaded Web Sites\easyshots.ru\fonts\Muller_Medium.bin
+Content Type: application/octet-stream
+
+Uri: https://easyshots.ru/fonts/Muller_ExtraBold.otf
+File Name: c:\Downloaded Web Sites\easyshots.ru\fonts\Muller_ExtraBold.bin
+Content Type: application/octet-stream
+
+Uri: https://easyshots.ru/css/faq.css
+File Name: c:\Downloaded Web Sites\easyshots.ru\css\faq.css
+Content Type: text/css
+
+Uri: https://easyshots.ru/images/aboutfaq.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\aboutfaq.jpg
+Content Type: image/jpeg
+
+Uri: https://easyshots.ru/images/whyfaq.jpg
+File Name: c:\Downloaded Web Sites\easyshots.ru\images\whyfaq.jpg
+Content Type: image/jpeg
+
